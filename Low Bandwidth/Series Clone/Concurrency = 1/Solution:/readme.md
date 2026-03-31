@@ -8,10 +8,13 @@ from: https://www.google.com/search?q=lazy+nvim+clone+series+parallel
 
 reference: https://github.com/LazyVim/LazyVim/discussions/4396
 
-~/.config/nvim/lua/packager/lazy.lua
+in: ~/.config/nvim/lua/config/lazy.lua
 ```
 -- Example: Setting concurrency to 1 to force serial installation
 require("lazy").setup(plugins, {
   concurrency = 1, -- Limit to 1 plugin at a time
 })
 ```
+
+# Doc:
+https://lazy.folke.io/installation
