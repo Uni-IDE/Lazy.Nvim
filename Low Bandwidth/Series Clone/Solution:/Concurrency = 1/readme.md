@@ -18,3 +18,6 @@ require("lazy").setup(plugins, {
 
 # Doc:
 https://lazy.folke.io/installation
+
+# sch:
+https://www.google.com/search?q=lazy+nvim+concurrency
