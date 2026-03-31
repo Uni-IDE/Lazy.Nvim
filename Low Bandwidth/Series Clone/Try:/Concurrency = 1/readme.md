@@ -1,8 +1,10 @@
-Also try `throttle` & `rate`
+Also try `throttle` & `rate` & `timeout`
 
-https://lazy.folke.io/configuration
+# Doc:
+**https://lazy.folke.io/configuration**  
+https://lazy.folke.io/installation
 
-from: https://www.google.com/search?q=lazy+nvim+clone+series+parallel
+
 
 # Google Gemini:
 >## Managing Series (Sequential) Installations
@@ -19,9 +21,6 @@ require("lazy").setup(plugins, {
   concurrency = 1, -- Limit to 1 plugin at a time
 })
 ```
-
-# Doc:
-https://lazy.folke.io/installation
 
 # sch:
 https://www.google.com/search?q=lazy+nvim+concurrency
