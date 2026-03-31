@@ -1,5 +1,4 @@
-# .Old
-Seems to have been changed to `throttle` & `rate`
+Also try `throttle` & `rate`
 
 https://lazy.folke.io/configuration
 
