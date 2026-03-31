@@ -1,6 +1,4 @@
-# Doc:
-https://github.com/folke/lazy.nvim/blob/6c3bda4aca61a13a9c63f1c1d1b16b9d3be90d7a/doc/lazy.nvim.txt
-
+# [Doc:](https://github.com/folke/lazy.nvim/blob/main/doc/lazy.nvim.txt)
 quote:
 "Some users may want to split their plugin specs in multiple files"
 
