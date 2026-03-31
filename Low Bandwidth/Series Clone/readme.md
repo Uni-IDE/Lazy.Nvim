@@ -4,6 +4,7 @@ If it tries to clone in Parallel (Default) it will Fail. Fix this!
 `concurrency = 1` is a Partial Fix, it still tries to clone in parallel, but at a slower rate! They will still fail but I can re-run it multiple times, Hoping it gets further each time. (Tested) It will still waste Data every time it tries, as it's redownloading failed ones over again.
 
 sch:
+- https://www.google.com/search?q=lazy+nvim+concurrenc
 - https://www.google.com/search?q=lazy+nvim+concurrency+1
 - https://www.google.com/search?q=lazy+nvim+clone+series
 - https://www.google.com/search?q=lazy+nvim+clone+series+parallel
