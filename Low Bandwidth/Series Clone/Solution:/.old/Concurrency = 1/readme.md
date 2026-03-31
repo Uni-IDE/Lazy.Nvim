@@ -1,3 +1,8 @@
+# .Old
+Seems to have been changed to `throttle` & `rate`
+
+https://lazy.folke.io/configuration
+
 from: https://www.google.com/search?q=lazy+nvim+clone+series+parallel
 
 # Google Gemini:
