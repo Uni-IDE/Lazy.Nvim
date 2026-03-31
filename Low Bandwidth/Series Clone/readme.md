@@ -5,3 +5,4 @@ sch:
 - https://www.google.com/search?q=lazy+nvim+clone+series
 - https://www.google.com/search?q=lazy+nvim+clone+series+parallel
 - https://www.google.com/search?q=lazy+nvim+clone+one+at+a+time
+- https://www.google.com/search?q=lazy+nvim+clone+rate+limit+raspberry+pi
